@@ -1,0 +1,34 @@
+
+button {
+    margin-right: 5px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+
+}
+.navbar{
+    /* //linear-gradient(125deg,rgb(214, 173, 111),#e9e994) */
+    /* background:linear-gradient(rgb(201, 151, 75),rgb(202, 182, 141)); */
+    /* background:linear-gradient(rgb(0,217,255),white); */
+    /* position: fixed; */
+
+    left: 0;
+    right:0;
+    top: 0;
+  
+    height: 2.6rem;
+}
+
+.mat-flat-button{
+    color: white !important;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+ }
+.carwash{
+    text-align: center;
+}
